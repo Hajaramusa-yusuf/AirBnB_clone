@@ -7,7 +7,7 @@ from models.amenity import Amenity
 
 
 class TestAmenity(unittest.TestCase):
-    """Test cases for the Amenity class"""
+    """Test cases for the Amenity class is here"""
 
     def setUp(self):
         self.amenity = Amenity()
